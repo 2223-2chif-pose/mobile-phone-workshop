@@ -1,0 +1,5 @@
+= Mobile Phone Workshop
+
+* This repository will track our progress in class.
+* Each student should have their own project with the same progress
+** If you missed a part you can use this repository as a baseline
